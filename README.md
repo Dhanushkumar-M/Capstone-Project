@@ -13,4 +13,4 @@ The Project Requirements :
 This project Monitor the temperature in the refridgrator continuously and predict the upcoming temperature by using Z-score Analysis and Prediction algoritham
 This measure the temperature plot the temperature in the prediction Graph.
 If any Anomaly is detected in the refridgerator the IOT device will send the warning message to the USER or Admin
-And Periodically The Device will send the current temperature to the USER or Admin
+And Periodically The Device will send the current temperature to the USER or Admin.
